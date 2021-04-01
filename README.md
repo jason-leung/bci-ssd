@@ -9,4 +9,4 @@ To use this tool, you would first want to determine an acceptable 95% confidence
 With the ALC CI defined, you can then specify different number of subjects (Ns) and trials (T) and run the code. From the results, you can determine which configuration meets the ALC criterion while minimizing Ns and T.
 
 An example of the ALC plot is shown below:
-![alt text](https://github.com/jason-leung/bci-ssd/blob/master/results/202003201358_alc_plot.png "ALC Plot")
+![alt text](https://github.com/jason-leung/bci-ssd/blob/master/results/202103312159_alc_plot.png "ALC Plot")

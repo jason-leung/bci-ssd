@@ -1,0 +1,1 @@
+{"n_trials": [140], "n_subjects": [5, 10, 15, 20], "M": 3, "n_samples": 5000, "n_chains": 3, "n_tune": 500}
